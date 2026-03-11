@@ -1,0 +1,10 @@
+@ARTICLE{11427342,
+  author={Han, Yan and Liu, Kanghuai and Yu, Jihong and Chen, Lin},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={Why Avoid Collisions? Exploit Them! Information Collection in Multi-Tagged RFID Systems}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Radiofrequency identification;Encoding;Vectors;Monitoring;Throughput;Backtracking;Standards;Signal resolution;Robustness;Redundancy;Information collection;multi-tagged RFID systems;throughput optimization},
+  doi={10.1109/TMC.2026.3672533}}
