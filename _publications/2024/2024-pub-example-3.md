@@ -4,7 +4,7 @@ date:           2024-10-01
 selected:       true
 pub:            "IEEE/ACM Transactions on Networking"
 # pub_pre:        "Submitted to "
-pub_post:       ' <span class="badge badge-pill badge-publication badge-success" style="font-size: 0.65em;">ToN (CCF-A)</span>'
+pub_post:       ' <span class="badge badge-pill badge-publication badge-info" style="font-size: 0.65em;">ToN (CCF-A)</span>'
 # pub_post:         ' <span class="badge badge-pill badge-publication badge-info">ToN (CCF-A)</span>'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-info">TON (CCF-A)</span>'
 # pub_date:       "2024"
