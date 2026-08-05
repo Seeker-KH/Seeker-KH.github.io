@@ -33,5 +33,5 @@ authors:
   - Xueyan Tang
 
  links:
-   Paper: https://ieeexplore.ieee.org/document/9796971
+   Paper: /assets/papers/2026/ICDCS.pdf
    Bibtex: /Bibtex/2026/ICDCS.txt
