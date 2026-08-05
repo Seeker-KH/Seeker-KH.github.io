@@ -18,7 +18,7 @@ authors:
   - Jihong Yu
   - Ziyue Jia
 links:
-  Paper: /assets/papers/2024/ToN.pdf
+  Paper: /assets/Papers/2024/ToN.pdf
   Bibtex: /Bibtex/2024/ToN-2024.txt
 ---
 
