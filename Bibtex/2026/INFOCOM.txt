@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11571218,
+  author={Liu, Kanghuai and Tang, Xueyan and Chen, Lin and Quan, Guocong and Pham, Xuan Qui},
+  booktitle={IEEE INFOCOM 2026 - IEEE Conference on Computer Communications}, 
+  title={Distributed Caching with Delayed Hits}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Algorithms;Servers;Timing;Delays;Aggregates;Printing;Conferences;Sequences;Sequential analysis;Modeling},
+  doi={10.1109/INFOCOM59046.2026.11571218}}
