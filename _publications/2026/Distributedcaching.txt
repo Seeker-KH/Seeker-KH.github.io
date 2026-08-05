@@ -17,9 +17,9 @@ authors:
   - Lin Chen
   - Guocong Quan
   - Xuan Qui Pham
-# links:
-#  Paper: /assets/Papers/2026/INFOCOM.pdf
- # Bibtex: /Bibtex/2022/INFOCOM-2022.txt
+ links:
+  Paper: /assets/Papers/2026/INFOCOM.pdf
+  Bibtex: /Bibtex/2026/INFOCOM.txt
 ---
 
 
