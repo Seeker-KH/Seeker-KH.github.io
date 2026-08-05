@@ -17,6 +17,6 @@ authors:
   - Jihong Yu
   - Haochen Cui
 links:
-  Paper: https://ieeexplore.ieee.org/document/10144682
+  Paper: /assets/papers/2024/TMC.pdf
   Bibtex: /Bibtex/2024/TMC-2024.txt
 ---
