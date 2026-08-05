@@ -17,7 +17,7 @@ authors:
   - Jihong Yu
   - Lin Chen
 links:
-  Paper: https://ieeexplore.ieee.org/document/11427342
+  Paper: /assets/papers/2026/TMC.pdf
   Bibtex: /Bibtex/2026/TMC-2026.txt
 ---
 
