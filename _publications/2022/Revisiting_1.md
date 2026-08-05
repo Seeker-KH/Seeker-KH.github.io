@@ -18,7 +18,7 @@ authors:
   - Shiyuan Liu
   - Jihong Yu
 links:
-  Paper: https://ieeexplore.ieee.org/document/9796971
+  Paper: /assets/papers/INFOCOM.pdf
   Bibtex: /Bibtex/2022/INFOCOM-2022.txt
 ---
 
