@@ -9,7 +9,7 @@ pub: "IEEE Transactions on Cloud Computing "
 
 # pub_pre: "Submitted to"
 
-pub_post: ' <span class="badge badge-pill badge-publication badge-success" style="font-size: 0.65em;">IEEE Transactions on Cloud Computing (CCF C)</span>'
+pub_post: ' <span class="badge badge-pill badge-publication badge-success" style="font-size: 0.65em;">TCC (CCF C)</span>'
 
 # pub_last: ' <span class="badge badge-pill badge-publication badge-success"></span>'
 
