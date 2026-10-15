@@ -39,6 +39,6 @@ authors:
   - Geyong Min
 
 links:
-  Paper: /assets/Papers/2026/ICDCS.pdf
-  Bibtex: /Bibtex/2026/ICDCS.txt
+  Paper: /assets/Papers/2026/ICC.pdf
+  Bibtex: /Bibtex/2026/ICC.txt
 ---
