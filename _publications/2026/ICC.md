@@ -1,15 +1,15 @@
 ---
-title: "On Hierarchical Caching with Delayed Hits"
+title: "ECOP: Energy-Efficient Computation Offloading With Privacy Awareness for IoT Applications"
 
-date: 2026-06-22
+date: 2026-10-13
 
-selected: true
+selected: false
 
-pub: "46th IEEE International Conference on Distributed Computing Systems"
+pub: "IEEE Transactions on Cloud Computing "
 
 # pub_pre: "Submitted to"
 
-pub_post: ' <span class="badge badge-pill badge-publication badge-success" style="font-size: 0.65em;">ICDCS''26 (CCF B)</span>'
+pub_post: ' <span class="badge badge-pill badge-publication badge-success" style="font-size: 0.65em;">IEEE Transactions on Cloud Computing (CCF C)</span>'
 
 # pub_last: ' <span class="badge badge-pill badge-publication badge-success"></span>'
 
@@ -29,8 +29,14 @@ pub_post: ' <span class="badge badge-pill badge-publication badge-success" style
 # cover: /assets/images/covers/cover3.jpg
 
 authors:
+  - Leilei Wang
+  - Xiaoheng Deng
+  - Jingjing Zhang
+  - Bo Li
   - Kanghuai Liu
-  - Xueyan Tang
+  - Honggang Zhang
+  - Shaohua Wan
+  - Geyong Min
 
 links:
   Paper: /assets/Papers/2026/ICDCS.pdf
